@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #ffff;
+
+}
+table{
+    margin-left: 10%;
+    margin-top: 40px;
+    border-collapse: collapse;
+}
+.first-table{
+    
+}
+.second-table{
+   
+}
+.third-table,th, td{
+   padding: 10px;
+   border: 1px solid black;
+  
+}
